@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anurag Singh
+Hi 👋 My name is Anurag Singh
 ====================================================================================================================================
 
 I am a Senior Data Scientist with a passion for leveraging machine learning and deep learning to solve complex problems. I have a strong background in computer science and engineering, and I'm constantly exploring new ways to apply my skills to real-world challenges.
